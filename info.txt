@@ -1,0 +1,19 @@
+CHLOGEN - a username generator (and checker) for various different platforms.
+
+How to use:
+1. open CHLOGEN.exe
+2. select 1, 2, 3, or 4 depending on what platform you want usernames for
+3. once usernames are generated, they will be stored in a text file
+4. do malicious things with usernames, i dont care!!
+
+credits:
+• google for helping me.
+• random indians on youtube for teaching me how to use APIs.
+• stackoverflow for existing.
+• chloe for being the human slave that programs it.
+
+extra info:
+• if u get ratelimited, thats not my problem. deal with it urself.
+• some usernames may be blocked due to the platforms username profanity filter.
+• twitter seems to have random taken usernames that dont actually exist idk why.
+• it will save usernames to a text file, i suggest you keep the exe in a folder
